@@ -1,6 +1,6 @@
 # Bifocl
 
-clone repository: ``` git clone https://github.com/cartertune/Bifocl.git``` 
+clone repository: ``` git clone https://github.com/cartertune/WebApp-Boilerplate.git``` 
 # Server
 
 Dependencies:
