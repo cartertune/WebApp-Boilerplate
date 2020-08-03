@@ -22,7 +22,7 @@
     "graphql": "^14.3.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.13",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "node-fetch": "^2.6.0",
     "prettier": "^1.17.1",
     "serverless-offline": "^4.10.5",
